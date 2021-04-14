@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Canvas Micro-courses and Trainings-clone",
+    "name": "Canvas Micro-courses and Trainings",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -53,7 +53,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 16,
-    "versionPublish": "5.3.0"
+    "versionPublish": "5.3.0",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
